@@ -1,0 +1,1342 @@
+152.57.134.207 - - [29/Jun/2022 04:46:12] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 04:46:25] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 04:46:29] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 04:46:30] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 04:46:32] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 04:46:35] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 04:46:36] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 04:46:36] "GET / HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 04:46:36] "GET / HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:01:16] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:16] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:16] "GET /assets/css/theme.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:16] "GET /assets/plugins/popper.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:16] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:16] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:16] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:17] "GET /assets/js/highlight-custom.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:17] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:17] "GET /assets/js/docs.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:17] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:17] "GET /assets/images/test.jpg HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:01:18] "GET /favicon.ico HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:50] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:51] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:51] "GET /assets/css/theme.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:51] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:51] "GET /assets/plugins/popper.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:51] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:52] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:52] "GET /assets/images/test.jpg HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:52] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:52] "GET /assets/js/highlight-custom.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:52] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:52] "GET /assets/js/docs.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:07:56] code 404, message File not found
+152.57.134.207 - - [29/Jun/2022 05:07:56] "GET /docs-page1.html HTTP/1.1" 404 -
+152.57.134.207 - - [29/Jun/2022 05:12:27] "GET / HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:27] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:27] "GET /assets/css/theme.css HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:27] "GET /assets/plugins/popper.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:27] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:27] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:27] "GET /assets/js/highlight-custom.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:28] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:28] "GET /assets/js/docs.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:28] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:28] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:28] "GET /assets/images/test.jpg HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:31] "GET /favicon.ico HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:34] "GET /index.html HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:35] "GET /index.html HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:12:37] "GET /index.html HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:12:59] "GET /index.html HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:59] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:59] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:12:59] "GET /assets/css/theme.css HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:00] "GET /assets/plugins/popper.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:00] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:00] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:00] "GET /assets/js/highlight-custom.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:00] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:00] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:01] "GET /assets/js/docs.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:01] "GET /assets/images/test.jpg HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:03] "GET / HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:04] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+152.57.134.207 - - [29/Jun/2022 05:13:15] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:13:44] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:13:49] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET /assets/css/theme.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET /assets/plugins/popper.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:12] "GET /assets/js/highlight-custom.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:13] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:13] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:13] "GET /assets/images/test.jpg HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:13] "GET /assets/js/docs.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 05:51:13] "GET /favicon.ico HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:48] "GET / HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:48] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:49] "GET /assets/css/theme.css HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:49] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:49] "GET /assets/plugins/popper.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:49] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:50] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:50] "GET /assets/js/highlight-custom.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:50] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:50] "GET /assets/images/test.jpg HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:50] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 304 -
+152.57.134.207 - - [29/Jun/2022 09:51:50] "GET /assets/js/docs.js HTTP/1.1" 304 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 400, message Bad request version ('À\x14À')
+162.142.125.210 - - [29/Jun/2022 16:26:07] " î  êü	6µ<ÆÁh¥¼>x¥Î¿\¦7@þ'yz¨Þç ã×|½Å4gÎ +öÅx&£k&]ûnv#ÄäÊ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.210 - - [29/Jun/2022 16:26:07] code 404, message File not found
+162.142.125.210 - - [29/Jun/2022 16:26:07] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.210', 44100)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.210 - - [29/Jun/2022 16:26:08] code 400, message Bad request version ('À\x14À')
+162.142.125.210 - - [29/Jun/2022 16:26:08] " î  ê2q9£úT´ô#±Rrp£c'þq¨%&¹@ q§u	ñ×Û!ÎV%fM´¶çC{[8³oþe! &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.210 - - [29/Jun/2022 16:26:10] "GET / HTTP/1.1" 200 -
+162.142.125.210 - - [29/Jun/2022 16:26:10] "GET / HTTP/1.1" 200 -
+162.142.125.210 - - [29/Jun/2022 16:26:10] code 505, message Invalid HTTP version (2.0)
+162.142.125.210 - - [29/Jun/2022 16:26:10] "PRI * HTTP/2.0" 505 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 400, message Bad request version ('À\x14À')
+162.142.125.219 - - [29/Jun/2022 23:01:44] " î  êÚäÀFv}úÄs£æºîÎÚ	Ü?a¶âÙ%©§ %ÅìØBUÂ,g]¶ìë¤j`=¶{évv: &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:44] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:44] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:44] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:44] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:44] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:44] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:44] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:44] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:45] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:45] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:45] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:45] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:45] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:45] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:45] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:45] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.219 - - [29/Jun/2022 23:01:45] code 404, message File not found
+162.142.125.219 - - [29/Jun/2022 23:01:45] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.219', 37254)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.219 - - [29/Jun/2022 23:01:46] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03äw\x7fmö²Gx')
+162.142.125.219 - - [29/Jun/2022 23:01:46] " î  êäwmö²Gx" 400 -
+162.142.125.219 - - [29/Jun/2022 23:01:47] "GET / HTTP/1.1" 200 -
+162.142.125.219 - - [29/Jun/2022 23:01:47] "GET / HTTP/1.1" 200 -
+162.142.125.219 - - [29/Jun/2022 23:01:47] code 505, message Invalid HTTP version (2.0)
+162.142.125.219 - - [29/Jun/2022 23:01:47] "PRI * HTTP/2.0" 505 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 400, message Bad request version ('À\x14À')
+162.142.125.7 - - [30/Jun/2022 07:40:49] " î  êcºGÅ 0û¹gK?YBHyLVûæõïFyc:ç ¯A©ùUä6ªgÄ¿SÜGñb§®; &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.7 - - [30/Jun/2022 07:40:49] code 404, message File not found
+162.142.125.7 - - [30/Jun/2022 07:40:49] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.7', 56820)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.7 - - [30/Jun/2022 07:40:50] code 400, message Bad request version ('À\x14À')
+162.142.125.7 - - [30/Jun/2022 07:40:50] " î  ê0kR"î|wJ(»p¯¹ær®',|6,Ï+Â |áMkMRc6ÒGÃN÷4&LtÒ=)æÈ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.7 - - [30/Jun/2022 07:40:51] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [30/Jun/2022 07:40:52] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [30/Jun/2022 07:40:52] code 505, message Invalid HTTP version (2.0)
+162.142.125.7 - - [30/Jun/2022 07:40:52] "PRI * HTTP/2.0" 505 -
+----------------------------------------
+Exception occurred during processing of request from ('92.255.85.183', 60421)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+157.33.18.80 - - [30/Jun/2022 08:29:23] "GET / HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:24] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:29:24] "GET /assets/css/theme.css HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:29:24] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:24] "GET /assets/plugins/popper.min.js HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:25] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:25] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:25] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:25] "GET /assets/js/highlight-custom.js HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:25] "GET /assets/js/docs.js HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:25] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:29:26] "GET /assets/images/test.jpg HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:32:09] "GET / HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:32:10] "GET /favicon.ico HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:34:25] "GET / HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 08:49:57] "GET / HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:58] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:58] "GET /assets/css/theme.css HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:58] "GET /assets/plugins/popper.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:58] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:58] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:58] "GET /assets/images/test.jpg HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:58] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:59] "GET /assets/js/highlight-custom.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:59] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:59] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:59] "GET /assets/js/docs.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:49:59] "GET / HTTP/1.1" 304 -
+----------------------------------------
+Exception occurred during processing of request from ('157.33.18.80', 44652)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 413, in handle_one_request
+    method()
+  File "/usr/lib/python3.10/http/server.py", line 658, in do_GET
+    self.copyfile(f, self.wfile)
+  File "/usr/lib/python3.10/http/server.py", line 858, in copyfile
+    shutil.copyfileobj(source, outputfile)
+  File "/usr/lib/python3.10/shutil.py", line 198, in copyfileobj
+    fdst_write(buf)
+  File "/usr/lib/python3.10/socketserver.py", line 826, in write
+    self._sock.sendall(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+157.33.18.80 - - [30/Jun/2022 08:50:00] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 08:50:04] "GET /favicon.ico HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:11:43] "GET / HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:14] "GET / HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:14] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:15] "GET /assets/css/theme.css HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:15] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:16] "GET /assets/plugins/popper.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:17] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:17] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:18] "GET /assets/js/highlight-custom.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:19] "GET /assets/images/test.jpg HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:19] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:19] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:22] "GET /assets/js/docs.js HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:32] "GET /favicon.ico HTTP/1.1" 200 -
+157.33.18.80 - - [30/Jun/2022 09:13:47] "GET / HTTP/1.1" 304 -
+157.33.18.80 - - [30/Jun/2022 09:16:59] "GET / HTTP/1.1" 304 -
+122.176.238.2 - - [30/Jun/2022 09:17:06] "GET / HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:06] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:06] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:06] "GET /assets/css/theme.css HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/plugins/popper.min.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/js/highlight-custom.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/js/docs.js HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:07] "GET /assets/images/test.jpg HTTP/1.1" 200 -
+122.176.238.2 - - [30/Jun/2022 09:17:08] "GET /favicon.ico HTTP/1.1" 200 -
+----------------------------------------
+Exception occurred during processing of request from ('92.255.85.183', 60099)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+49.36.60.87 - - [01/Jul/2022 05:00:19] "GET / HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:20] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:20] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:20] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:20] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:20] "GET /assets/plugins/popper.min.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:20] "GET /assets/css/theme.css HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:21] "GET /assets/js/highlight-custom.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:21] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:21] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:21] "GET /assets/js/docs.js HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:22] "GET /assets/images/test.jpg HTTP/1.1" 200 -
+49.36.60.87 - - [01/Jul/2022 05:00:27] "GET /favicon.ico HTTP/1.1" 200 -
+95.161.131.235 - - [01/Jul/2022 06:03:28] code 400, message Bad request syntax ('ðÞ¼')
+95.161.131.235 - - [01/Jul/2022 06:03:28] "ðÞ¼" 400 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 400, message Bad request version ('%')
+162.142.125.7 - - [01/Jul/2022 14:45:51] " î  êýpy/íåP³¼ë²&M íýôõR­èDFßC5 ðV#3±U5ü1{`ôÛK6·oÜ~T%" 400 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:51] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:51] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:52] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:52] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:52] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:52] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:52] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:52] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.7 - - [01/Jul/2022 14:45:52] code 404, message File not found
+162.142.125.7 - - [01/Jul/2022 14:45:52] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.7', 49804)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.7 - - [01/Jul/2022 14:45:53] code 400, message Bad request version ('À\x14À')
+162.142.125.7 - - [01/Jul/2022 14:45:53] " î  ê Ðx¸æÈ2ûfªX3Óþ72Z60þwçÞú×6X Ãÿ9+ bP<Wwy5ô0m¡\íÞØæpdeû &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.7 - - [01/Jul/2022 14:45:54] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [01/Jul/2022 14:45:54] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [01/Jul/2022 14:45:54] code 505, message Invalid HTTP version (2.0)
+162.142.125.7 - - [01/Jul/2022 14:45:54] "PRI * HTTP/2.0" 505 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 400, message Bad request version ('À\x14À')
+167.94.138.46 - - [01/Jul/2022 15:25:47] " î  êN#nµNtvY:àrøÍ·öc ¥bÞd>à~kã#z ë®ýóA¹(q~Ý{Þ?(ÌPfxª0@Y1¡ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.94.138.46 - - [01/Jul/2022 15:25:47] code 404, message File not found
+167.94.138.46 - - [01/Jul/2022 15:25:47] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('167.94.138.46', 59938)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+167.94.138.46 - - [01/Jul/2022 15:25:48] code 400, message Bad request version ('À\x14À')
+167.94.138.46 - - [01/Jul/2022 15:25:48] " î  ê×ræO1'¢^Th__îS}Ñäü|>|!ÍU3r ÞÈ\®23aTµJ`ÍiïLí"úwèÄßu &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.94.138.46 - - [01/Jul/2022 15:25:50] "GET / HTTP/1.1" 200 -
+167.94.138.46 - - [01/Jul/2022 15:25:50] "GET / HTTP/1.1" 200 -
+167.94.138.46 - - [01/Jul/2022 15:25:50] code 505, message Invalid HTTP version (2.0)
+167.94.138.46 - - [01/Jul/2022 15:25:50] "PRI * HTTP/2.0" 505 -
+92.255.85.183 - - [01/Jul/2022 18:02:31] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+92.255.85.183 - - [01/Jul/2022 18:02:31] "  /*à     Cookie: mstshash=Administr" 400 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 400, message Bad request version ('À\x14À')
+162.142.125.7 - - [02/Jul/2022 01:59:25] " î  êäØ¨dv´S{þþÝâPöÁíöDEgXO°&'My <Sf+YòMä½þ¢HÙ¯l>?xyED|¿  &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.7 - - [02/Jul/2022 01:59:25] code 404, message File not found
+162.142.125.7 - - [02/Jul/2022 01:59:25] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.7', 57328)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.7 - - [02/Jul/2022 01:59:26] code 400, message Bad request version ('À\x14À')
+162.142.125.7 - - [02/Jul/2022 01:59:26] " î  êæÄ=À95Qîâ]XæúÒ¢	ãÔ#u°+ ì/ zOï;ø±¦Ò÷H½Mò³¨`¯`û7ÿ(ß &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.7 - - [02/Jul/2022 01:59:27] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [02/Jul/2022 01:59:27] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [02/Jul/2022 01:59:27] code 505, message Invalid HTTP version (2.0)
+162.142.125.7 - - [02/Jul/2022 01:59:27] "PRI * HTTP/2.0" 505 -
+92.255.85.183 - - [02/Jul/2022 08:32:39] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+92.255.85.183 - - [02/Jul/2022 08:32:39] "  /*à     Cookie: mstshash=Administr" 400 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 400, message Bad request version ('À\x14À')
+162.142.125.211 - - [03/Jul/2022 01:26:45] " î  êuI|$Â¯;Q±DðNJy¶¦ØA²hÚ@ÓÖ;¤ I%­öÒíò&¿V;±ZÔt~ýò³¹uâ³åÍ¶ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 01:26:45] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 01:26:45] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.211', 56442)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.211 - - [03/Jul/2022 01:26:46] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03§R>nv')
+162.142.125.211 - - [03/Jul/2022 01:26:46] " î  ê§R>nv" 400 -
+162.142.125.211 - - [03/Jul/2022 01:26:47] "GET / HTTP/1.1" 200 -
+162.142.125.211 - - [03/Jul/2022 01:26:47] "GET / HTTP/1.1" 200 -
+162.142.125.211 - - [03/Jul/2022 01:26:47] code 505, message Invalid HTTP version (2.0)
+162.142.125.211 - - [03/Jul/2022 01:26:47] "PRI * HTTP/2.0" 505 -
+128.14.141.34 - - [03/Jul/2022 07:34:51] code 404, message File not found
+128.14.141.34 - - [03/Jul/2022 07:34:51] "GET /admin/ HTTP/1.1" 404 -
+206.189.140.207 - - [03/Jul/2022 10:39:18] "GET / HTTP/1.0" 200 -
+92.255.85.30 - - [03/Jul/2022 16:42:42] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+92.255.85.30 - - [03/Jul/2022 16:42:42] "  /*à     Cookie: mstshash=Administr" 400 -
+154.89.5.118 - - [03/Jul/2022 18:11:53] "GET / HTTP/1.0" 200 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 400, message Bad request version ('À\x14À')
+162.142.125.211 - - [03/Jul/2022 23:53:20] " î  ê'ÓZCÒñ3Ê«ûÔpBÊçÎÞ.\¾oË|Ö èøN©,ïKF¯0kúÍÉbÐ¿Ì< &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.211 - - [03/Jul/2022 23:53:20] code 404, message File not found
+162.142.125.211 - - [03/Jul/2022 23:53:20] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.211', 47876)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.211 - - [03/Jul/2022 23:53:21] code 400, message Bad request version ('X\x94')
+162.142.125.211 - - [03/Jul/2022 23:53:21] " î  ê¡3uçk¿bo¨>¼"ar|6ØÀ8A%£úRò±| 2ºùÚ+eé×ìX" 400 -
+162.142.125.211 - - [03/Jul/2022 23:53:22] "GET / HTTP/1.1" 200 -
+162.142.125.211 - - [03/Jul/2022 23:53:22] "GET / HTTP/1.1" 200 -
+162.142.125.211 - - [03/Jul/2022 23:53:22] code 505, message Invalid HTTP version (2.0)
+162.142.125.211 - - [03/Jul/2022 23:53:22] "PRI * HTTP/2.0" 505 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 400, message Bad request version ('À\x14À')
+167.248.133.45 - - [04/Jul/2022 07:32:56] " î  ê'a:yy§¨þzu7l­WýH)g%ýEl¿qDKNl d"0}3ëØÇzÈgýµâÌ½ðOÃÚêÈ¡îKà &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/targets HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/targets HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/labels HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/labels HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.248.133.45 - - [04/Jul/2022 07:32:56] code 404, message File not found
+167.248.133.45 - - [04/Jul/2022 07:32:56] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('167.248.133.45', 44450)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+167.248.133.45 - - [04/Jul/2022 07:32:57] code 400, message Bad request version ('À\x14À')
+167.248.133.45 - - [04/Jul/2022 07:32:57] " î  ê;pÒiÔLÙ£>þùÂ9æF½ §­tçOUî¤¦'· ëK	Ð	ÿ¯J"*ÛÇäüÞØ>y\¶Á=³O &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.248.133.45 - - [04/Jul/2022 07:32:58] "GET / HTTP/1.1" 200 -
+167.248.133.45 - - [04/Jul/2022 07:32:58] "GET / HTTP/1.1" 200 -
+167.248.133.45 - - [04/Jul/2022 07:32:58] code 505, message Invalid HTTP version (2.0)
+167.248.133.45 - - [04/Jul/2022 07:32:58] "PRI * HTTP/2.0" 505 -
+49.36.60.87 - - [04/Jul/2022 12:11:38] "GET / HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:38] "GET /assets/css/theme.css HTTP/1.1" 200 -
+49.36.60.87 - - [04/Jul/2022 12:11:38] "GET /assets/plugins/popper.min.js HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:38] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:38] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:38] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+49.36.60.87 - - [04/Jul/2022 12:11:38] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:39] "GET /assets/js/highlight-custom.js HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:39] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:39] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:39] "GET /assets/js/docs.js HTTP/1.1" 304 -
+49.36.60.87 - - [04/Jul/2022 12:11:39] "GET /assets/images/test.jpg HTTP/1.1" 304 -
+91.191.209.202 - - [04/Jul/2022 19:32:51] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+91.191.209.202 - - [04/Jul/2022 19:32:51] "  /*à     Cookie: mstshash=Administr" 400 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 400, message Bad request version ('À\x14À')
+162.142.125.222 - - [05/Jul/2022 06:49:45] " î  êU ÚÚ?Þ/S4±æ~QzMî>)Á¶qÉh½| 5½~dwþ%l-ê×¡W×¥´.ø;i=5Z×í<G &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.222 - - [05/Jul/2022 06:49:45] code 404, message File not found
+162.142.125.222 - - [05/Jul/2022 06:49:45] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.222', 35048)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.222 - - [05/Jul/2022 06:49:46] code 400, message Bad request version ('À\x14À')
+162.142.125.222 - - [05/Jul/2022 06:49:46] " î  êòõ][ÿ´Ýc·/&Áa`#àÊJxÕ´ªÇi»  Ãí}*8m3H9AÎbð<÷mçHøª¸µ@Ìk &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.222 - - [05/Jul/2022 06:49:47] "GET / HTTP/1.1" 200 -
+162.142.125.222 - - [05/Jul/2022 06:49:47] "GET / HTTP/1.1" 200 -
+162.142.125.222 - - [05/Jul/2022 06:49:47] code 505, message Invalid HTTP version (2.0)
+162.142.125.222 - - [05/Jul/2022 06:49:47] "PRI * HTTP/2.0" 505 -
+92.255.85.30 - - [05/Jul/2022 08:32:22] code 400, message Bad HTTP/0.9 request type ('\x03\x00\x00/*à\x00\x00\x00\x00\x00Cookie:')
+92.255.85.30 - - [05/Jul/2022 08:32:22] "  /*à     Cookie: mstshash=Administr" 400 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 400, message Bad request version ('À\x14À')
+162.142.125.7 - - [05/Jul/2022 09:23:30] " î  êúZÅ¹í1ºNÓ.A4<±åâ# _af.G×M >;ú³ÏúDøìþðfX%C®T7h'×Î &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.7 - - [05/Jul/2022 09:23:30] code 404, message File not found
+162.142.125.7 - - [05/Jul/2022 09:23:30] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.7', 35786)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.7 - - [05/Jul/2022 09:23:31] code 400, message Bad request version ('À\x14À')
+162.142.125.7 - - [05/Jul/2022 09:23:31] " î  êRúà;}ÍöÑÉ/Ýª8V±yòHê=Cp7- ÝÐ Zq¾Ôãd½ÔÜ¾ë ¯Þád{%7½®]øZ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.7 - - [05/Jul/2022 09:23:32] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [05/Jul/2022 09:23:32] "GET / HTTP/1.1" 200 -
+162.142.125.7 - - [05/Jul/2022 09:23:32] code 505, message Invalid HTTP version (2.0)
+162.142.125.7 - - [05/Jul/2022 09:23:32] "PRI * HTTP/2.0" 505 -
+167.94.145.58 - - [05/Jul/2022 17:32:21] code 400, message Bad request version ('À\x14À')
+167.94.145.58 - - [05/Jul/2022 17:32:21] " î  êc½ä+ê~eÇ¥ýøKRCÃA×©ítk4n_ ÷cqæ >è°> »ÏôþÈ=þn_+¡ççP &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.94.145.58 - - [05/Jul/2022 17:32:21] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:21] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:21] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:21] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:21] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:21] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:22] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:22] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:22] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:22] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:22] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:22] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:22] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:22] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:22] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:22] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:23] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:23] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:23] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:23] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:23] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:23] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.94.145.58 - - [05/Jul/2022 17:32:23] code 404, message File not found
+167.94.145.58 - - [05/Jul/2022 17:32:23] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('167.94.145.58', 46344)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+167.94.145.58 - - [05/Jul/2022 17:32:24] code 400, message Bad request version ('Ywa')
+167.94.145.58 - - [05/Jul/2022 17:32:24] " î  êµ)T_ðGæ	#K-D¸x}hOÕêÁwÖÊÉö øÇÌÅ=ý¥fãYwa" 400 -
+167.94.145.58 - - [05/Jul/2022 17:32:26] "GET / HTTP/1.1" 200 -
+167.94.145.58 - - [05/Jul/2022 17:32:26] "GET / HTTP/1.1" 200 -
+167.94.145.58 - - [05/Jul/2022 17:32:26] code 505, message Invalid HTTP version (2.0)
+167.94.145.58 - - [05/Jul/2022 17:32:26] "PRI * HTTP/2.0" 505 -
+167.94.138.63 - - [05/Jul/2022 20:46:13] code 400, message Bad request version ('À\x14À')
+167.94.138.63 - - [05/Jul/2022 20:46:13] " î  ê-RîõÕ5ÇËT©xwwÑ.­O#ÊË¾¾ÿ6T 0l¾ÑºEì)?÷ºö³EòqcÎ1£+ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.94.138.63 - - [05/Jul/2022 20:46:13] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:13] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:13] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:13] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:13] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:13] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:13] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:13] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:13] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:13] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:13] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:13] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:14] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:14] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:14] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:14] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:14] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:14] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:14] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:14] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:14] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:14] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.94.138.63 - - [05/Jul/2022 20:46:14] code 404, message File not found
+167.94.138.63 - - [05/Jul/2022 20:46:14] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('167.94.138.63', 37032)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+167.94.138.63 - - [05/Jul/2022 20:46:15] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03´\x99é\x0f\x14°ëX\x8eã\x9a¥r\x9eÐ¡D\x02&zÕ?\x16£Õ')
+167.94.138.63 - - [05/Jul/2022 20:46:15] " î  ê´é°ëXã¥rÐ¡D&zÕ?£Õ" 400 -
+167.94.138.63 - - [05/Jul/2022 20:46:17] "GET / HTTP/1.1" 200 -
+167.94.138.63 - - [05/Jul/2022 20:46:17] "GET / HTTP/1.1" 200 -
+167.94.138.63 - - [05/Jul/2022 20:46:17] code 505, message Invalid HTTP version (2.0)
+167.94.138.63 - - [05/Jul/2022 20:46:17] "PRI * HTTP/2.0" 505 -
+80.82.77.33 - - [05/Jul/2022 21:00:27] "GET / HTTP/1.1" 200 -
+80.82.77.33 - - [05/Jul/2022 21:00:27] "GET /favicon.ico HTTP/1.1" 200 -
+80.82.77.33 - - [05/Jul/2022 21:01:03] code 400, message Bad request syntax ('\x03l¦Äb\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00\x00')
+80.82.77.33 - - [05/Jul/2022 21:01:03] "l¦Äb                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            " 400 -
+146.70.111.84 - - [05/Jul/2022 23:48:04] code 404, message File not found
+146.70.111.84 - - [05/Jul/2022 23:48:04] "GET http://dyn.epicgifs.net/test6956.php HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 400, message Bad request version ('À\x14À')
+162.142.125.220 - - [06/Jul/2022 07:55:53] " î  êlt6ÖL4©µ¾cßWG(À8u#ðmÙý*B/ 	»j×éÊ®-eÜ¾ìò²¢¶½3ù¼ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.220 - - [06/Jul/2022 07:55:53] code 404, message File not found
+162.142.125.220 - - [06/Jul/2022 07:55:53] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.220', 33312)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.220 - - [06/Jul/2022 07:55:55] code 400, message Bad request version ('À\x14À')
+162.142.125.220 - - [06/Jul/2022 07:55:55] " î  êÉÑR¸TZü!í¼>7ï.xê¤©oÃ²Ó Z¾_êÔ¯ ûéõ¼}~Õýö¥óe¹#Ó»b &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.220 - - [06/Jul/2022 07:55:56] "GET / HTTP/1.1" 200 -
+162.142.125.220 - - [06/Jul/2022 07:55:56] "GET / HTTP/1.1" 200 -
+162.142.125.220 - - [06/Jul/2022 07:55:56] code 505, message Invalid HTTP version (2.0)
+162.142.125.220 - - [06/Jul/2022 07:55:56] "PRI * HTTP/2.0" 505 -
+----------------------------------------
+Exception occurred during processing of request from ('104.152.52.108', 57072)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+89.248.163.194 - - [06/Jul/2022 10:38:19] code 400, message Bad request syntax ('\x03\x00\x00\x13\x0eà\x00\x00\x00\x00\x00\x01\x00\x08\x00\x02\x00\x00\x00')
+89.248.163.194 - - [06/Jul/2022 10:38:19] "  à          " 400 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03\x9f7\x0fÕ\x03')
+162.142.125.10 - - [06/Jul/2022 11:20:58] " î  ê7Õ" 400 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:58] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:58] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:59] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:59] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.10 - - [06/Jul/2022 11:20:59] code 404, message File not found
+162.142.125.10 - - [06/Jul/2022 11:20:59] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.10', 37958)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.10 - - [06/Jul/2022 11:21:02] "GET / HTTP/1.1" 200 -
+162.142.125.10 - - [06/Jul/2022 11:21:02] "GET / HTTP/1.1" 200 -
+162.142.125.10 - - [06/Jul/2022 11:21:02] code 505, message Invalid HTTP version (2.0)
+162.142.125.10 - - [06/Jul/2022 11:21:02] "PRI * HTTP/2.0" 505 -
+167.94.138.117 - - [06/Jul/2022 14:18:00] code 400, message Bad request version ('¹ëÝ¦ÞÑ§°Ü')
+167.94.138.117 - - [06/Jul/2022 14:18:00] " î  êG{i\ËÛ_Ê¬)ÆñânYéIûû¾¼ZÍ ÄgP¸yö¹ëÝ¦ÞÑ§°Ü" 400 -
+167.94.138.117 - - [06/Jul/2022 14:18:00] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:00] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.94.138.117 - - [06/Jul/2022 14:18:01] code 404, message File not found
+167.94.138.117 - - [06/Jul/2022 14:18:01] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('167.94.138.117', 37064)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+167.94.138.117 - - [06/Jul/2022 14:18:02] code 400, message Bad request version ('\x00ÃµÉ]\x13tÝ\x00«À\x86\x83ù')
+167.94.138.117 - - [06/Jul/2022 14:18:02] " î  êHH<X{k!p¾ãôº5rÍRY!Ky(îÓÐ\Ò= ø§wèÿ~Å« ÃµÉ]tÝ «Àù" 400 -
+167.94.138.117 - - [06/Jul/2022 14:18:03] "GET / HTTP/1.1" 200 -
+167.94.138.117 - - [06/Jul/2022 14:18:03] "GET / HTTP/1.1" 200 -
+167.94.138.117 - - [06/Jul/2022 14:18:03] code 505, message Invalid HTTP version (2.0)
+167.94.138.117 - - [06/Jul/2022 14:18:03] "PRI * HTTP/2.0" 505 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03)ª')
+167.248.133.61 - - [07/Jul/2022 07:57:52] " î  ê)ªêÕ=qÉÿm£=áNÜô" 400 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/targets HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/targets HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/labels HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:52] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:52] "GET /api/v1/labels HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:53] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:53] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:53] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:53] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.248.133.61 - - [07/Jul/2022 07:57:53] code 404, message File not found
+167.248.133.61 - - [07/Jul/2022 07:57:53] "GET /api/v1/status/config HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('167.248.133.61', 57650)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+167.248.133.61 - - [07/Jul/2022 07:57:54] code 400, message Bad request version ('À\x14À')
+167.248.133.61 - - [07/Jul/2022 07:57:54] " î  êíç¹ærW?ìô3âÊ¶SÃ³vÙ2ä×a¥ (TiCdÊJZ«EáðÜfÀ¦ã7(?Ïànk@ªÎÙ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.248.133.61 - - [07/Jul/2022 07:57:55] "GET / HTTP/1.1" 200 -
+167.248.133.61 - - [07/Jul/2022 07:57:55] "GET / HTTP/1.1" 200 -
+167.248.133.61 - - [07/Jul/2022 07:57:55] code 505, message Invalid HTTP version (2.0)
+167.248.133.61 - - [07/Jul/2022 07:57:55] "PRI * HTTP/2.0" 505 -
+64.225.51.239 - - [07/Jul/2022 10:09:57] "HEAD / HTTP/1.0" 200 -
+64.225.51.239 - - [07/Jul/2022 10:09:57] code 404, message File not found
+64.225.51.239 - - [07/Jul/2022 10:09:57] "GET /system_api.php HTTP/1.1" 404 -
+64.225.51.239 - - [07/Jul/2022 10:09:58] code 404, message File not found
+64.225.51.239 - - [07/Jul/2022 10:09:58] "GET /c/version.js HTTP/1.1" 404 -
+64.225.51.239 - - [07/Jul/2022 10:09:58] code 404, message File not found
+64.225.51.239 - - [07/Jul/2022 10:09:58] "GET /streaming/clients_live.php HTTP/1.1" 404 -
+64.225.51.239 - - [07/Jul/2022 10:09:59] code 404, message File not found
+64.225.51.239 - - [07/Jul/2022 10:09:59] "GET /stalker_portal/c/version.js HTTP/1.1" 404 -
+64.225.51.239 - - [07/Jul/2022 10:09:59] code 404, message File not found
+64.225.51.239 - - [07/Jul/2022 10:09:59] "GET /stream/live.php HTTP/1.1" 404 -
+64.225.51.239 - - [07/Jul/2022 10:10:00] code 404, message File not found
+64.225.51.239 - - [07/Jul/2022 10:10:00] "GET /flu/403.html HTTP/1.1" 404 -
+64.225.51.239 - - [07/Jul/2022 10:10:00] "GET / HTTP/1.1" 200 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 400, message Bad request version ('À\x14À')
+162.142.125.221 - - [07/Jul/2022 12:00:34] " î  êÉ­I$"Ñð·8þÄvT£þòÆ¾{V%vuÍ>« ã¯ð«qÄ¼Y>Å@g1Vnä@þ)Vâ%W« &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:34] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:34] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:35] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:35] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.221 - - [07/Jul/2022 12:00:35] code 404, message File not found
+162.142.125.221 - - [07/Jul/2022 12:00:35] "GET /api/v1/status/config HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.221', 53282)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.221 - - [07/Jul/2022 12:00:36] code 400, message Bad request version ('À\x14À')
+162.142.125.221 - - [07/Jul/2022 12:00:36] " î  êh-£§Þ,BIÏóÓ#uà­4 Vi% ÆÛT¹wõNV.@»e¡c¼(ÝYs½¥7r &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.221 - - [07/Jul/2022 12:00:37] "GET / HTTP/1.1" 200 -
+162.142.125.221 - - [07/Jul/2022 12:00:37] "GET / HTTP/1.1" 200 -
+162.142.125.221 - - [07/Jul/2022 12:00:37] code 505, message Invalid HTTP version (2.0)
+162.142.125.221 - - [07/Jul/2022 12:00:37] "PRI * HTTP/2.0" 505 -
+183.136.225.42 - - [08/Jul/2022 01:26:54] "GET / HTTP/1.1" 200 -
+183.136.225.42 - - [08/Jul/2022 01:27:20] "GET /favicon.ico HTTP/1.1" 200 -
+183.136.225.42 - - [08/Jul/2022 01:27:21] code 404, message File not found
+183.136.225.42 - - [08/Jul/2022 01:27:21] "GET /robots.txt HTTP/1.1" 404 -
+157.245.57.183 - - [08/Jul/2022 02:02:16] "GET / HTTP/1.1" 200 -
+167.94.146.59 - - [08/Jul/2022 06:33:44] code 400, message Bad request syntax ('\x16\x03\x01\x00î\x01\x00\x00ê\x03\x03+¡ö')
+167.94.146.59 - - [08/Jul/2022 06:33:44] " î  ê+¡ö" 400 -
+167.94.146.59 - - [08/Jul/2022 06:33:44] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:44] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:44] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:44] "GET /api/v1/targets HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:45] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:45] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:45] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:45] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:45] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:45] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:45] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:45] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:46] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:46] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:46] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:46] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:46] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:46] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:46] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:46] "GET /api/v1/labels HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:46] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:46] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:47] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:47] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+167.94.146.59 - - [08/Jul/2022 06:33:47] code 404, message File not found
+167.94.146.59 - - [08/Jul/2022 06:33:47] "GET /api/v1/status/config HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('167.94.146.59', 42004)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+167.94.146.59 - - [08/Jul/2022 06:33:48] code 400, message Bad request version ('À\x14À')
+167.94.146.59 - - [08/Jul/2022 06:33:48] " î  ê4gb½ûÿoÿnxÂæfØW² îú	V Gür[B±¶o ­yö¯¤D(ýÿ¦t?ñT#Ä &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+167.94.146.59 - - [08/Jul/2022 06:33:49] "GET / HTTP/1.1" 200 -
+167.94.146.59 - - [08/Jul/2022 06:33:49] "GET / HTTP/1.1" 200 -
+167.94.146.59 - - [08/Jul/2022 06:33:50] code 505, message Invalid HTTP version (2.0)
+167.94.146.59 - - [08/Jul/2022 06:33:50] "PRI * HTTP/2.0" 505 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 400, message Bad request version ('À\x14À')
+162.142.125.210 - - [08/Jul/2022 08:30:19] " î  êp¬_BÞýûÝ}ºPÖ©Ý`FH¹ÜQÊ,@ ½a/Z_?C bçË;.@FÌÀ½À>H(Ïÿ &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:19] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:19] "GET /api/v1/targets HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:19] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:19] "GET /api/v1/label/version/values HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:19] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:19] "GET /api/v1/label/goversion/values HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:19] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:19] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:20] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:20] "GET /api/v1/query?query=prometheus_build_info HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:20] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:20] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:20] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:20] "GET /api/v1/labels HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:20] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:20] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:20] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:20] "GET /api/v1/label/__name__/values HTTP/1.1" 404 -
+162.142.125.210 - - [08/Jul/2022 08:30:20] code 404, message File not found
+162.142.125.210 - - [08/Jul/2022 08:30:20] "GET /api/v1/status/config HTTP/1.1" 404 -
+----------------------------------------
+Exception occurred during processing of request from ('162.142.125.210', 43314)
+Traceback (most recent call last):
+  File "/usr/lib/python3.10/socketserver.py", line 683, in process_request_thread
+    self.finish_request(request, client_address)
+  File "/usr/lib/python3.10/http/server.py", line 1287, in finish_request
+    self.RequestHandlerClass(request, client_address, self,
+  File "/usr/lib/python3.10/http/server.py", line 651, in __init__
+    super().__init__(*args, **kwargs)
+  File "/usr/lib/python3.10/socketserver.py", line 747, in __init__
+    self.handle()
+  File "/usr/lib/python3.10/http/server.py", line 425, in handle
+    self.handle_one_request()
+  File "/usr/lib/python3.10/http/server.py", line 393, in handle_one_request
+    self.raw_requestline = self.rfile.readline(65537)
+  File "/usr/lib/python3.10/socket.py", line 705, in readinto
+    return self._sock.recv_into(b)
+ConnectionResetError: [Errno 104] Connection reset by peer
+----------------------------------------
+162.142.125.210 - - [08/Jul/2022 08:30:21] code 400, message Bad request version ('À\x14À')
+162.142.125.210 - - [08/Jul/2022 08:30:21] " î  êüªÃè·V­uÛkxªeÀQµÚª×6ú ¥$ mßj-d6W%Ê·¾VY)çñCdKÁvl &Ì¨Ì©À/À0À+À,ÀÀ	ÀÀ" 400 -
+162.142.125.210 - - [08/Jul/2022 08:30:22] "GET / HTTP/1.1" 200 -
+162.142.125.210 - - [08/Jul/2022 08:30:22] "GET / HTTP/1.1" 200 -
+162.142.125.210 - - [08/Jul/2022 08:30:22] code 505, message Invalid HTTP version (2.0)
+162.142.125.210 - - [08/Jul/2022 08:30:22] "PRI * HTTP/2.0" 505 -
+157.33.232.160 - - [08/Jul/2022 10:44:38] "GET / HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:39] "GET /assets/fontawesome/js/all.min.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:39] "GET /assets/plugins/simplelightbox/simple-lightbox.min.css HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:39] "GET /assets/css/theme.css HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:39] "GET /assets/plugins/popper.min.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:39] "GET /assets/plugins/bootstrap/js/bootstrap.min.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:40] "GET /assets/plugins/smoothscroll.min.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:40] "GET /assets/js/highlight-custom.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:40] "GET /assets/plugins/simplelightbox/simple-lightbox.min.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:40] "GET /assets/plugins/gumshoe/gumshoe.polyfills.min.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:40] "GET /assets/js/docs.js HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:41] "GET /assets/images/test.jpg HTTP/1.1" 200 -
+157.33.232.160 - - [08/Jul/2022 10:44:44] "GET /favicon.ico HTTP/1.1" 200 -
